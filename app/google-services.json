@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035238893083",
+    "firebase_url": "https://accesify-50edf.firebaseio.com",
+    "project_id": "accesify-50edf",
+    "storage_bucket": "accesify-50edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035238893083:android:63e904b167d4a27b",
+        "android_client_info": {
+          "package_name": "com.finalyear.accesify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035238893083-6m83udl506n4pvom7ubm8d1s88c5397t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalyear.accesify",
+            "certificate_hash": "699e2ca3010290f750bf77403c5f59552f37dc43"
+          }
+        },
+        {
+          "client_id": "1035238893083-8hb6v92gs4ranbtv5a5a6k74fm7ae5eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulT-5ZDeFHTrCxOwFX18KwPMD9sxENk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035238893083-8hb6v92gs4ranbtv5a5a6k74fm7ae5eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
